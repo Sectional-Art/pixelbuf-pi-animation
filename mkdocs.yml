@@ -1,0 +1,16 @@
+site_name: PixelBuf Pi Animation Library
+theme: readthedocs
+
+plugins:
+- search
+- mkdocstrings:
+    default_handler: python
+    handlers:
+      python:
+        rendering:
+          show_source: false
+          show_if_no_docstring: false
+          show_root_heading: true
+          members_order: source
+    watch:
+      - ./pixelbuf_pi_animation

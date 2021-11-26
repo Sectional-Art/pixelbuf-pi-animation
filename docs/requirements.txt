@@ -1,0 +1,3 @@
+mkdocstrings
+pytkdocs[numpy-style]
+pixelbuf_pi_animation
