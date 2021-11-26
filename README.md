@@ -5,8 +5,8 @@ This is a convenience library for building animations using a Raspberry Pi, an L
 This is meant to work on top of LED libraries provided by Adafruit and run on a Raspberry Pi. Please read the rest of this document to find out if this project is useful for you before continuing onto the detailed documentation.
 
 Important links:
-- [Source code]()
-- [Detailed Documentation]()
+- [Source code](https://github.com/Sectional-Art/pixelbuf-pi-animation)
+- [Detailed Documentation](https://pixelbuf-pi-animation.readthedocs.io/en/latest/)
 
 ## Basic Structure and Concepts
 
